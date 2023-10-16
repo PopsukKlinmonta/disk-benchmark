@@ -4,7 +4,6 @@
 #include <fstream>
 #include <cstring>
 
-// Adjust the buffer size and the total write size as per your requirement
 const std::size_t BUFFER_SIZE = 1024 * 1024; // 1 MB
 const std::size_t TOTAL_WRITE_SIZE = 1024 * 1024 * 100; // 100 MB
 
